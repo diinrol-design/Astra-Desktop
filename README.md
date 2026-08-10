@@ -33,13 +33,12 @@ Ollama для работы локальных моделей не требует
 
 ## Скачать Astra
 
-Последняя версия находится в разделе **Releases**:
+### [Скачать Astra 1.00.4 для Windows](https://github.com/diinrol-design/Astra-Desktop/releases/download/v1.00.4/Astra_Setup_1.00.4.exe)
 
-**Astra 1.00.4**
+**Windows 10/11 · 64-bit**
 
-Откройте Releases и скачайте:
+Другие версии доступны в разделе [Releases](https://github.com/diinrol-design/Astra-Desktop/releases).
 
-`Astra_Setup_1.00.4.exe`
 
 ## Обновления
 
