@@ -41,7 +41,7 @@ Companion может работать как с локальными модел�
 
 ## Скачать Companion
 
-### [Скачать Companion 1.00.5](https://github.com/diinrol-design/Astra-Desktop/releases/download/v1.00.5/Companion_Setup_1.00.5.exe)
+### [Скачать Companion 1.00.5](https://github.com/diinrol-design/Companion-Desktop/releases/download/v1.00.5/Companion_Setup_1.00.5.exe)
 
 **Windows 10/11 · 64-bit**  
 Актуальная версия: **Companion 1.00.5**.
