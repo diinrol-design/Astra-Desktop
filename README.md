@@ -6,7 +6,8 @@ Companion объединяет общение с ИИ, память, интер�
 
 ## Companion Desktop
 
-![Companion Desktop](2fc130fe-6a49-4fa2-a1ab-65b5b48fde48.png)
+<img width="1918" height="1028" alt="2fc130fe-6a49-4fa2-a1ab-65b5b48fde48" src="https://github.com/user-attachments/assets/e3776fb1-db46-4ff1-9b7c-b778e3b34ac2" />
+
 
 ## Основные возможности
 
@@ -27,7 +28,8 @@ Companion объединяет общение с ИИ, память, интер�
 
 Встроенный каталог локальных GGUF-моделей. Можно найти подходящую модель, посмотреть её характеристики, варианты квантования и требования к памяти, а затем скачать её прямо из Companion.
 
-![Companion Hub](13ea9ff2-90af-42aa-b25a-6d363ced8cda.png)
+<img width="1900" height="1012" alt="13ea9ff2-90af-42aa-b25a-6d363ced8cda" src="https://github.com/user-attachments/assets/e0824d63-3535-4977-974d-e58f632ef486" />
+
 
 ## Локально или в облаке
 
